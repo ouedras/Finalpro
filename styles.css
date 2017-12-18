@@ -1,0 +1,10 @@
+body{color:darkblue;
+    background-color:lightskyblue;
+    font-family: arial,inherit sans-serif;
+    margin: 40px;}
+h1{font-size: 50px;
+    font-family: serif;}
+h2{font-size: 30px;
+    font-family: serif;}
+a{color:red;}
+.attribution{font-size: 10px;}
